@@ -1,1 +1,1 @@
-# tuksik.github.io
+# tuksik.github.io - static pages
